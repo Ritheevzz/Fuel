@@ -1,22 +1,7 @@
-streamlit==1.33.0
-pandas==2.2.2
-numpy==1.26.4
-
-# Database
-sqlalchemy==2.0.29
-pymysql==1.1.1
-mysql-connector-python==8.3.0
-
-# Date utilities
-python-dateutil==2.9.0
-
-# Charts (Financial UI)
-matplotlib==3.8.3
-seaborn==0.13.2
-plotly==5.20.0
-
-# Image utility for Streamlit
-pillow==10.2.0
-
-# Optional for type compatibility
-typing-extensions==4.10.0
+streamlit==1.32.0
+pandas==1.5.3
+numpy==1.23.5
+sqlalchemy==2.0.23
+pymysql==1.1.0
+plotly==5.18.0
+python-dateutil==2.8.2
